@@ -1,7 +1,7 @@
 ## Getting and Cleaning Project 1
 Rob Tuck
 
-### Descriptio
+### Description
 Information about variables, data and transforms done for course project
 
 ### Source Data
